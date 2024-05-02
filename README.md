@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Devakrishnan Gopal</h1>
-<p align="center">I'm a visionary Fullstack Developer mastering MERN (MongoDB, Express.js, React.js, Node.js) and pioneering Blockchain and Web3 technologies. Passionate about pushing boundaries, I craft dynamic web experiences while redefining digital innovation through decentralized solutions. From seamless UIs to secure blockchain projects, I thrive on challenges driving transformation. Join me on this electrifying journey as we reshape the digital landscape with code and innovation as our guiding stars!</p>
+<p align="center">I'm a visionary Fullstack Developer - MERN (MongoDB, Express.js, React.js, Node.js) and pioneering Blockchain and Web3 technologies. Passionate about pushing boundaries, I craft dynamic web experiences while redefining digital innovation through decentralized solutions. From seamless UIs to secure blockchain projects, I thrive on challenges driving transformation. Join me on this electrifying journey as we reshape the digital landscape with code and innovation as our guiding stars!</p>
 
 - 🔭 I’m currently working on [MetaWallet](https://www.github.com/gdevakrishnan/MetaWallet)
 
