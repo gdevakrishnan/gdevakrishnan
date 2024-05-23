@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Devakrishnan Gopal</h1>
 <p align="center">I'm a visionary Fullstack Developer - MERN (MongoDB, Express.js, React.js, Node.js) and pioneering Blockchain and Web3 technologies. Passionate about pushing boundaries, I craft dynamic web experiences while redefining digital innovation through decentralized solutions. From seamless UIs to secure blockchain projects, I thrive on challenges driving transformation. Join me on this electrifying journey as we reshape the digital landscape with code and innovation as our guiding stars!</p>
 
-- 🔭 I’m currently working on [MetaWallet](https://www.github.com/gdevakrishnan/MetaWallet)
+- 🔭 I’m currently working on [Amazon Clone](https://github.com/gdevakrishnan/amazon_clone)
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on [face-detection](https://www.github.com/face-detection)
+- 👯 I’m looking to collaborate on [face-detection](https://www.github.com/gdevakrishnan/face-detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gdevakrishnan](https://github.com/gdevakrishnan)
 
