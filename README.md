@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://devakrishnan.vercel.app/" target="blank"><img align="center" src="https://devakrishnan.vercel.app/assets/gd_logo-BdZPxMyy.png" alt="devakrishnan" height="auto" width="40" /></a>
-<a href="https://linkedin.com/in/deva-krishnan-52981a245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deva krishnan" height="30" width="40" /></a>
-<a href="https://instagram.com/devakrishnan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devakrishnan.dev" height="30" width="40" /></a>
+<a href="https://devakrishnan.vercel.app/" target="_blank"><img align="center" src="https://devakrishnan.vercel.app/assets/gd_logo-BdZPxMyy.png" alt="devakrishnan" height="auto" width="40" /></a>
+<a href="https://linkedin.com/in/deva-krishnan-52981a245/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deva krishnan" height="30" width="40" /></a>
+<a href="https://instagram.com/devakrishnan.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devakrishnan.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
