@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Devakrishnan Gopal</h1>
 <p align="center">I'm a visionary Fullstack Developer - MERN (MongoDB, Express.js, React.js, Node.js) and pioneering Blockchain and Web3 technologies. Passionate about pushing boundaries, I craft dynamic web experiences while redefining digital innovation through decentralized solutions. From seamless UIs to secure blockchain projects, I thrive on challenges driving transformation. Join me on this electrifying journey as we reshape the digital landscape with code and innovation as our guiding stars!</p>
 
-- 🔭 I’m currently working on [Amazon Clone](https://github.com/gdevakrishnan/amazon_clone)
+- 🔭 I’m currently working on [E-Learn Web3](https://github.com/gdevakrishnan/elearn-web3)
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on [face-detection](https://www.github.com/gdevakrishnan/face-detection)
+- 👯 I’m looking to collaborate on [RFID Attendance System](https://www.github.com/gdevakrishnan/rfid-attendance-system)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gdevakrishnan](https://github.com/gdevakrishnan)
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://devakrishnan.vercel.app/" target="blank"><img align="center" src="https://devakrishnan.vercel.app/assets/gd_logo-BdZPxMyy.png" alt="devakrishnan" height="auto" width="40" /></a>
 <a href="https://linkedin.com/in/deva-krishnan-52981a245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deva krishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/devakrishnan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devakrishnan.dev" height="30" width="40" /></a>
 </p>
