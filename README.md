@@ -37,7 +37,8 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="reactjs" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/111111/nextjs.png" alt="nextjs" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwind" width="40" height="40"/>
 </p>
 
@@ -46,5 +47,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdevakrishnan&show_icons=true&locale=en" alt="gdevakrishnan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdevakrishnan&" alt="gdevakrishnan" /></p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation" />
