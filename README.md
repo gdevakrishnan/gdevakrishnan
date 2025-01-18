@@ -45,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdevakrishnan&show_icons=true&locale=en&layout=compact" alt="gdevakrishnan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdevakrishnan&show_icons=true&locale=en" alt="gdevakrishnan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdevakrishnan&" alt="gdevakrishnan" /></p>
