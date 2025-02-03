@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Devakrishnan Gopal</h1>
 <p align="center">I’m a student fascinated by Blockchain technology and its ability to revolutionize industries. My journey began with learning the fundamentals of Blockchain, then moved on to Smart Contract and DApp development, and now focuses on Web3 and Supply Chain Management research and innovation.</p>
 
-- 🔭 I’m currently working on [ArbitroChain](https://github.com/gdevakrishnan/ArbitroChain)
+- 🔭 I’m currently working on [Certify](https://github.com/gdevakrishnan/certify)
 
 - 🌱 I’m currently learning **Blockchain**
 
