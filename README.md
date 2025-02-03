@@ -41,6 +41,6 @@
 
 <br />
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdevakrishnan&show_icons=true&locale=en&layout=compact" alt="gdevakrishnan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gdevakrishnan&show_icons=true&locale=en" alt="gdevakrishnan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdevakrishnan&show_icons=true&theme=dark&title_color=ffffff&text_color=e0e0e0&bg_color=1e1e1e&hide_border=true&locale=en&layout=compact" alt="gdevakrishnan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gdevakrishnan&show_icons=true&theme=dark&title_color=ffffff&text_color=e0e0e0&bg_color=1e1e1e&hide_border=true&locale=en" alt="gdevakrishnan" />
 </div>
