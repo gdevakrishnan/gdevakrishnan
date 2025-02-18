@@ -29,6 +29,7 @@
     <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" style="margin-right: 12px"> 
     <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs" style="margin-right: 12px">
     <img src="https://skillicons.dev/icons?i=express" height="36" alt="Express" style="margin-right: 12px"> 
+    <img src="https://skillicons.dev/icons?i=django" height="36" alt="Django" style="margin-right: 12px"> 
     <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" style="margin-right: 12px"> 
     <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="Material UI" style="margin-right: 12px"> 
     <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind" style="margin-right: 12px"> 
@@ -37,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" style="margin-right: 12px"> 
     <img src="https://skillicons.dev/icons?i=postgresql" height="36" alt="PostgreSQL" style="margin-right: 12px"> 
     <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" style="margin-right: 12px"> 
+    <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" style="margin-right: 12px"> 
 </div>
 
 <br />
