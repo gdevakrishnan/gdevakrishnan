@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello there! 👋 I'm Devakrishnan</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Blockchain+Developer;Smart+Contract+Developer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Blockchain+Developer;Smart+Contract+Developer;Full+Stack+Developer;Python+Developer" alt="Typing SVG" />
   
   <p>
     <a href="https://linkedin.com/in/deva-krishnan-52981a245/" target="_blank">
