@@ -12,7 +12,7 @@
   <a href="mailto:gdevakrishnan700@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://bit.ly/devakrishnan-resume" target="_blank">
+  <a href="https://drive.google.com/file/d/1al7sAxsYdqOIpb7dU24FWUQpPhHg25vz/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
